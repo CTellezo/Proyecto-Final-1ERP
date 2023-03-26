@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+
+}
+h4{
+font-family: 'Roboto Mono', monospace;
+}
+p{
+    font-family: 'Noto Serif JP', serif;
+}
+.I{
+    height: 400px;
+    width:400px ;
+
+ top: 100px ;
+ left: 43px ;
+ margin: 10px;
+ top: 30px;
+ left: 59px;
+}
+body{
+    background: rgb(46,171,152);
+background: linear-gradient(90deg, rgba(46,171,152,1) 100%, rgba(240,241,241,0.9682247899159664) 100%, rgba(0,212,255,1) 100%);
+}
